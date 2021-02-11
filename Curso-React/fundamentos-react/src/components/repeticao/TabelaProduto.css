@@ -1,0 +1,11 @@
+.TabelaProdutos table{
+    width: 100%;
+}
+
+.TabelaProdutos th {
+    background-color: rgb(42, 167, 125);
+}
+
+.TabelaProdutos tr:nth-child(odd) {
+    background-color: rgb(52, 105, 88);
+}
